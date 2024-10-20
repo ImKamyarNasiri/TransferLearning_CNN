@@ -1,0 +1,1 @@
+This project involves step-by-step programming exercises focused on solving practical problems using convolutional neural networks (CNNs). The tasks include training a CNN on the CIFAR-10 dataset, improving the model with advanced techniques for the mini-ImageNet dataset, and exploring transfer learning from CIFAR-10 to mini-ImageNet.
